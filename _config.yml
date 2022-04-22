@@ -1,11 +1,11 @@
 # Basic
-title: 王帅
+title: 王小帅
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: little-boy52
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 编程分享
 url: ""
 
 # 博客是否自动生成目录，false为不生成
@@ -19,13 +19,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
+    # weibo: 5366874726 
     github: little-boy52
-    # zhihu: panpanleopard
+    zhihu: 王小帅
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: shuaiwang1144612318@gmail.com
 
 
 # 百度统计 
